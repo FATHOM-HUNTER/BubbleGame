@@ -24,10 +24,13 @@ Welcome to the Bubble Game project! This simple web-based game challenges you to
 
 ## How to Run
 
+To play the game, you can visit the live version hosted on Netlify: [BubbleGame](https://bubblegamegovinda.netlify.app/).
+
+If you prefer to run it locally:
+
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser to start playing.
 
 ## Contributors
 
 - Govinda Giri
-
