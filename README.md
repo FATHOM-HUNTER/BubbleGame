@@ -31,10 +31,3 @@ Welcome to the Bubble Game project! This simple web-based game challenges you to
 
 - Govinda Giri
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-Enjoy the game, and feel free to contribute or provide feedback!
-
-
